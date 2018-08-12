@@ -1,0 +1,9 @@
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\bin\x86\Release\ShutdownManager.exe.config
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\bin\x86\Release\ShutdownManager.exe
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\bin\x86\Release\ShutdownManager.pdb
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\x86\Release\ShutdownManager.Form1.resources
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\x86\Release\ShutdownManager.Properties.Resources.resources
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\x86\Release\ShutdownManager.csproj.GenerateResource.Cache
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\x86\Release\ShutdownManager.csproj.CoreCompileInputs.cache
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\x86\Release\ShutdownManager.exe
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\x86\Release\ShutdownManager.pdb

@@ -1,0 +1,10 @@
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Release\ShutdownManager.exe.config
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Release\ShutdownManager.exe
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Release\ShutdownManager.pdb
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Release\CoreAudioApi.dll
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.Form1.resources
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.Properties.Resources.resources
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.csproj.GenerateResource.Cache
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.csproj.CoreCompileInputs.cache
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.exe
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.pdb

@@ -1,0 +1,31 @@
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.exe.config
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.exe
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.pdb
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csprojResolveAssemblyReference.cache
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.Form1.resources
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.Properties.Resources.resources
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csproj.GenerateResource.Cache
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csproj.CoreCompileInputs.cache
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.exe
+C:\Users\Кос Євген\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.pdb
+E:\C#\source\repos\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.exe.config
+E:\C#\source\repos\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.exe
+E:\C#\source\repos\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.pdb
+E:\C#\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csprojResolveAssemblyReference.cache
+E:\C#\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.Form1.resources
+E:\C#\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.Properties.Resources.resources
+E:\C#\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csproj.GenerateResource.Cache
+E:\C#\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csproj.CoreCompileInputs.cache
+E:\C#\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.exe
+E:\C#\source\repos\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.pdb
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.exe.config
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.exe
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Debug\ShutdownManager.pdb
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csprojResolveAssemblyReference.cache
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.Form1.resources
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.Properties.Resources.resources
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csproj.GenerateResource.Cache
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.csproj.CoreCompileInputs.cache
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.exe
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.pdb
+D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Debug\CoreAudioApi.dll
