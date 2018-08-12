@@ -8,3 +8,14 @@ D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownMa
 D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.csproj.CoreCompileInputs.cache
 D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.exe
 D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Release\ShutdownManager.pdb
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\bin\Release\ShutdownManager.exe.config
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\bin\Release\ShutdownManager.exe
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\bin\Release\ShutdownManager.pdb
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.csprojAssemblyReference.cache
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.Form1.resources
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.Properties.Resources.resources
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.csproj.GenerateResource.cache
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.csproj.CoreCompileInputs.cache
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.csproj.CopyComplete
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.exe
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.pdb

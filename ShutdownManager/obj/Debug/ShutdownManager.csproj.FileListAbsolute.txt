@@ -29,3 +29,14 @@ D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownMana
 D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.exe
 D:\C#\workspace\Education\ShutdownManager\ShutdownManager\obj\Debug\ShutdownManager.pdb
 D:\C#\workspace\Education\ShutdownManager\ShutdownManager\bin\Debug\CoreAudioApi.dll
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\bin\Debug\ShutdownManager.exe.config
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\bin\Debug\ShutdownManager.exe
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\bin\Debug\ShutdownManager.pdb
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.csprojAssemblyReference.cache
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.Form1.resources
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.Properties.Resources.resources
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.csproj.GenerateResource.cache
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.csproj.CoreCompileInputs.cache
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.csproj.CopyComplete
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.exe
+C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Debug\ShutdownManager.pdb

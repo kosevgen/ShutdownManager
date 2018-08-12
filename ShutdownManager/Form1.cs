@@ -88,14 +88,14 @@ namespace ShutdownManager
 
             if (Shutdown == true)
             {
-                //Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString()); 
-                MessageBox.Show("Пішов шатдавн " + Time);
+                Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString()); 
+                //MessageBox.Show("Пішов шатдавн " + Time);
 
             }
             else if (Restart == true)
             {
-                //Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString());
-                MessageBox.Show("Пішов рестарт " + Time);
+                Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString());
+                //MessageBox.Show("Пішов рестарт " + Time);
                 
             }
 
