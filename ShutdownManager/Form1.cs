@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace ShutdownManager
@@ -52,21 +52,15 @@ namespace ShutdownManager
 
         private void button1_Click(object sender, EventArgs e)
         {
+            TimeManipulation timeManipulation = new TimeManipulation(Time, Shutdown, Restart);
+            VolumeManager volumeManager = new VolumeManager(timeManipulation.TimeInSeconds);
 
-            run();
-            if (Shutdown)
-            {
-
-                MessageBox.Show("Час до вимикання ПК " + Time, "Time to SHUTDOWN");
-
-            }
-            else {
-
-                MessageBox.Show("Час до перезапуску ПК " + Time, "Time to RESTART");
-
-            }
-            
-
+            Thread thread1 = new Thread(new ThreadStart(timeManipulation.run));
+            Thread thread2 = new Thread(new ThreadStart(volumeManager.desMasterVolume));
+            thread1.Name = "Process shutdown or restart";
+            thread2.Name = "Process volume controll";
+            thread1.Start();
+            thread2.Start();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -82,92 +76,9 @@ namespace ShutdownManager
 
         }
 
-        void run() {
-
-            setTimeToShutdownOrRestart();
-
-            if (Shutdown == true)
-            {
-                Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString()); 
-                //MessageBox.Show("Пішов шатдавн " + Time);
-
-            }
-            else if (Restart == true)
-            {
-                Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString());
-                //MessageBox.Show("Пішов рестарт " + Time);
-                
-            }
-
-            VolumeManager volumeManager = new VolumeManager();
-            volumeManager.desMasterVolume(TimeInSeconds);
-            
-        }
-
-        private void setTimeToShutdownOrRestart() {
-
-            if (Time == "1 хв")
-            {
-
-                TimeInSeconds = 60;
-
-            }
-            else if (Time == "2 хв")
-            {
-
-                TimeInSeconds = 60 * 2;
-
-            }
-            else if (Time == "5 хв")
-            {
-
-                TimeInSeconds = 60 * 5;
-
-            }
-            else if (Time == "10 хв")
-            {
-
-                TimeInSeconds = 60 * 10;
-
-            }
-            else if (Time == "15 хв")
-            {
-
-                TimeInSeconds = 60 * 15;
-
-            }
-            else if (Time == "30 хв")
-            {
-
-                TimeInSeconds = 60 * 30;
-
-            }
-            else if (Time == "40 хв")
-            {
-
-                TimeInSeconds = 60 * 40;
-
-            }
-            else if (Time == "1 год")
-            {
-
-                TimeInSeconds = 60 * 60;
-
-            }
-            else if (Time == "2 год")
-            {
-
-                TimeInSeconds = 60 * 2 * 60;
-
-            }
-            else if (Time == "3 год")
-            {
-
-                TimeInSeconds = 60 * 3 * 60;
-
-            }
-
-        }
+        
 
     }
+
 }
+
