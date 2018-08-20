@@ -34,19 +34,11 @@ namespace ShutdownManager
 
             if (Shutdown == true)
             {
-                Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString()); 
-                Messages.MessagesForm messagesShutdown = new Messages.MessagesForm();
-                messagesShutdown.SetMessageText("Пішов шатдавн " + Time);
-                Messages.MessagesForm messagesTimeToShutdown = new Messages.MessagesForm();
-                messagesTimeToShutdown.SetMessageText("Час до вимикання ПК " + Time);
+                Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString());
             }
             else if (Restart == true)
             {
-                Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString());
-                Messages.MessagesForm messagesRestart = new Messages.MessagesForm();
-                messagesRestart.SetMessageText("Пішов шатдавн " + Time);
-                Messages.MessagesForm messagesTimeToRestart = new Messages.MessagesForm();
-                messagesTimeToRestart.SetMessageText("Час до вимикання ПК " + Time);
+                Process.Start("shutdown.exe", "-r -f -t " + TimeInSeconds.ToString());
             }
         }
 

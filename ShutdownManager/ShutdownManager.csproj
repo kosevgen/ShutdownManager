@@ -79,6 +79,11 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Messages\Messages.Designer.cs" />
+    <Compile Include="Messages\Messages1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.resx</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ThreadManager.cs" />

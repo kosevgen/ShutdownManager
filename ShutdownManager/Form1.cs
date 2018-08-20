@@ -47,14 +47,13 @@ namespace ShutdownManager
         {
 
             Time = comboBOX.SelectedItem.ToString();
-                                    
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             TimeManipulation timeManipulation = new TimeManipulation(Time, Shutdown, Restart);
             VolumeManager volumeManager = new VolumeManager(timeManipulation.TimeInSeconds);
-
             Thread thread1 = new Thread(new ThreadStart(timeManipulation.run));
             Thread thread2 = new Thread(new ThreadStart(volumeManager.desMasterVolume));
             thread1.Name = "Process shutdown or restart";
