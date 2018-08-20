@@ -19,19 +19,18 @@ namespace ShutdownManager
             Time = time;
             Shutdown = shutdown;
             Restart = restart;
+            setTimeToShutdownOrRestart();
         }
         public TimeManipulation(String time)
         {
             Time = time;
             Shutdown = true;
             Restart = false;
+            setTimeToShutdownOrRestart();
         }
 
         public void run()
         {
-
-            setTimeToShutdownOrRestart();
-
             if (Shutdown == true)
             {
                 Process.Start("shutdown.exe", "-s -f -t " + TimeInSeconds.ToString());
