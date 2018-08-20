@@ -19,4 +19,3 @@ C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\Shutdo
 C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.csproj.CopyComplete
 C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.exe
 C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.pdb
-C:\Users\e.kos\source\repos\C-Sharp\ShutdownManager\ShutdownManager_2.1.0\ShutdownManager\obj\Release\ShutdownManager.Messages.Messages.resources
