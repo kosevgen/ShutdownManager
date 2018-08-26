@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 
@@ -29,25 +23,19 @@ namespace ShutdownManager
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-
             Shutdown = true;
-            Restart = false;
-                
+            Restart = false;       
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-
             Restart = true;
-            Shutdown = false;
-            
+            Shutdown = false;   
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
             Time = comboBOX.SelectedItem.ToString();
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -69,15 +57,9 @@ namespace ShutdownManager
 
         private void button3_Click(object sender, EventArgs e)
         {
-
             Process.Start("shutdown.exe", "-a");
             MessageBox.Show("УСЕ ВІДМІНЕНО!!!");
-
         }
-
-        
-
     }
-
 }
 

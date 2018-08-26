@@ -1,17 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ShutdownManager
 {
     class TimeManipulation
     {
-        String Time;
-        bool Shutdown;
-        bool Restart;
+        private String Time;
+        private bool Shutdown;
+        private bool Restart;
         public int TimeInSeconds;
 
         public TimeManipulation(String time, bool shutdown, bool restart)
@@ -74,6 +70,12 @@ namespace ShutdownManager
                 TimeInSeconds = 60 * 15;
 
             }
+            else if (Time == "20 хв")
+            {
+
+                TimeInSeconds = 60 * 20;
+
+            }
             else if (Time == "30 хв")
             {
 
@@ -102,6 +104,12 @@ namespace ShutdownManager
             {
 
                 TimeInSeconds = 60 * 3 * 60;
+
+            }
+            else if (Time == "4 год")
+            {
+
+                TimeInSeconds = 60 * 4 * 60;
 
             }
         }

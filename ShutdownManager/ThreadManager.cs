@@ -9,10 +9,8 @@ namespace ShutdownManager
 {
     class ThreadManager
     {
-
         //Thread backgroundThread = new Thread(new ThreadStart(run()));
         //backgroundThread.Name = "Primary";
           //  backgroundThread.Start();
-
     }
 }

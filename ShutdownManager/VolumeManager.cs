@@ -22,7 +22,6 @@ namespace ShutdownManager
                 masterVolume = audioManager.GetMasterVolume();
                 System.Threading.Thread.Sleep(1000);
             }
-
         }
     }
 }
